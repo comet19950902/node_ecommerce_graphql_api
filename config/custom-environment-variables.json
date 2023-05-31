@@ -1,0 +1,5 @@
+{
+  "port": "PORT",
+  "nodeEnv": "NODE_ENV",
+  "localUri": "MONGODB_URI_LOCAL"
+}
